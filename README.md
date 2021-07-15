@@ -5,3 +5,14 @@ get some help
   
 realize this is what you want  
 `set disable-randomization -- Set disabling of debuggee's virtual address space randomization`  
+  
+### How to Run it in the Debugger  
+  
+`gdb --args exploit example_data.txt`  
+  
+### How to Find System  
+  
+run  
+print system  
+  
+### How to Find Call to /bin/sh  

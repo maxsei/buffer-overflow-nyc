@@ -1,5 +1,10 @@
-4444
-5555
-2222
-3333
-1111
+ffffffffffffffff
+ffffffffffffffff
+ffffffffffffffff
+ffffffffffffffff
+ffffffffffffffff
+0000341f17c3cbbf
+00007ffff7a27120 // exit
+00007ffff7a33440 // system
+00007ffff7b97e9b // bin/sh
+00007ffff7ac8dd0 // _exit

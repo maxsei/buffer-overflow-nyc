@@ -1,7 +1,7 @@
 # inspired by https://github.com/TheNetAdmin/Makefile-Templates
 
 CC := gcc
-CCFLAG := -g 
+CCFLAG := -g -fno-stack-protector
 CCOBJFLAG := $(CCFLAG) -c
 TARGET := exploit
 
